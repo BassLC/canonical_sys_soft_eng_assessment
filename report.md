@@ -1,5 +1,5 @@
 # Golang System Software Engineer - Technical Assessment
-Git repository link: 
+Git repository link: https://github.com/BassLC/canonical_sys_soft_eng_assessment
 
 ## Exercise 1 - Bootable Linux image via QEMU
 In this exercise, I created a system for downloading and automatically
